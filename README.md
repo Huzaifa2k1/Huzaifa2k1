@@ -60,5 +60,5 @@
 </div>
 
 ###
-
+![snake gif](https://github.com/Huzaifa2k1/Huzaifa2k1/blob/output/github-snake-dark.svg)
 ###
